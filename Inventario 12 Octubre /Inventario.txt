@@ -1,0 +1,1 @@
+ID Producto	Descripcion	Cantidad	Costo3	Barra de contactos	10	299.997	Alebrije	2	1999.9510	Llave	8	24.45
