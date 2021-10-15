@@ -1,0 +1,6 @@
+Carlos,3
+Leonardo,7
+Abigail,1
+Sharon,10
+Arturo,1
+Jorge,1
